@@ -1,7 +1,7 @@
 trigger:
   main
 pool:
-  name: string 
+  name: default
 stages:
   - stage: build
     jobs:
